@@ -1,0 +1,34 @@
+# Visual Studio / IDE
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.ncb
+*.vcxproj.*
+
+# Build output
+**/bin/
+**/obj/
+**/publish/
+**/artifacts/
+
+# Rider
+.idea/
+*.sln.iml
+
+# ASP.NET / .NET Core
+appsettings.Development.json
+launchSettings.json
+
+# Logs
+*.log
+*.vsmdi
+TestResults/
+*_i.c
+*_p.c
+*_h.h
+
+# OS files
+.DS_Store
+Thumbs.db

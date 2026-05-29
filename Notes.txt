@@ -1,0 +1,7 @@
+Making an entity required 
+ - public required string DisplayName { get; set; } = "";
+
+Entity Framework
+ What is it ??
+  - An object relational mapper
+  - Translates our code into sql commands that update our tables in the database
